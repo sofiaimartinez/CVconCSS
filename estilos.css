@@ -1,0 +1,17 @@
+p{
+    color:rgb(27, 2, 2);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+    margin: 1cm;
+}
+body{
+    color:rgb(223, 191, 129);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+}
+header{
+    background-color:rgb(210, 71, 71);
+}
+h3{
+    background-color: rgb(243, 153, 120);
+}
