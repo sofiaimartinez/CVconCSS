@@ -1,17 +1,32 @@
 p{
-    color:rgb(27, 2, 2);
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: justify;
     margin: 1cm;
+    
 }
 body{
-    color:rgb(223, 191, 129);
-    font-family: 'Courier New', Courier, monospace;
+    color:rgb(108, 65, 119);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: bisque;
+    border-radius: 15px;
 }
 header{
-    background-color:rgb(210, 71, 71);
+    background:rgb(253, 193, 255);
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
 }
 h3{
-    background-color: rgb(243, 153, 120);
+    background-color: rgb(212, 163, 245);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#ad72c8;
+    border-radius: 25px;
+}
+body{
+    background: linear-gradient(135deg,  #c8729e 0%,#ad72c8 25%,#c872b8 50%,#ad72c8 75%,#c8729e 100%);
+}
+h4{
+   color: rgb(108, 65, 119);
+}
+section{
+   column-count: 2;
+   column-gap: 15px;
 }
